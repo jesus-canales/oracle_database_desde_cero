@@ -1,6 +1,19 @@
 # GESTION DE TABLAS
 
-[]
+1. [Tablas](#tablas)
+   * [Crear Tabla Persona](#crear-tabla-persona)
+   * [Crear Tabla Inscripción](#crear-tabla-inscripcion)
+   * [Crear Tabla Carrera](#crear-tabla-carrera)
+   * [Crear Tabla Persona](#crear-tabla-ciclo)
+   * [Crear Tabla Pago](#crear-tabla-pago)
+   * [Crear Tabla Pago Detalle](#crear-tabla-pago_detalle)
+2. [Estructura de Tablas](#verificar-estructura-de-tablas)
+3. [Restricciones o Constraints en Tablas](#verificar-las-constraints-de-las-tablas)
+4. [Asignar permisos de acceso a Tablas](#asignar-permisos-de-acceso-a-tablas)
+5. [Tablas propias de usuario](#tablas-propias-de-cada-usuario)
+6. [Tablas compartidas de usuario](#tablas-compartidas-de-cada-usuario)
+7. [Gestión de estructuras de Tablas](#gestión-de-estructursa-de-tablas-compartidas)
+8. [Eliminar Tablas](#eliminar-tablas)
 
 
 ## Tablas
