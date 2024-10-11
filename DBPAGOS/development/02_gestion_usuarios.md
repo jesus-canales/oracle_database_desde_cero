@@ -1,4 +1,4 @@
-# Gestión de Usuarios, Permisos, Roles y Perfiles
+# GESTION DE USUARIO, PERMISOS, ROLES Y PERFILES
 
 1. [Usuarios](#usuarios)
    * [Gestión de Usuarios](#gestión-de-usuarios)
@@ -24,6 +24,7 @@
 
 * Es la entidad que interactúa con la base de datos.
 * Al crear un usuario se le asigna un esquema por defecto.
+* Es conveniente que el usuario deba estar asignado a un tablespace, **por ejemplo:** utilizaremos para las demos nuestro tablespace **TBS_DATASOFT**
 * Tienen asociado permisos que definen qué operaciones pueden realizar en la base de datos.
 * Tiene control granular sobre quién puede acceder a qué información y qué acciones puede realizar.
 
